@@ -1,0 +1,13 @@
+	Welcome to Mini Mall
+ Bill Number:4462
+ Customer Name:mmm
+ Phone Number:56777
+ Customer Email:mm
+=========================
+Products	QTY	Price
+=========================
+=========================
+ Sub Amount:		Rs.75.00
+ Tax Amount:		Rs.0.45
+ Total Amount:		Rs.75.45
+=========================

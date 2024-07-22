@@ -1,0 +1,13 @@
+	Welcome to Mini Mall
+ Bill Number:9600
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================
+Products	QTY	Price
+=========================
+=========================
+ Sub Amount:		Rs.90.00
+ Tax Amount:		Rs.0.60
+ Total Amount:		Rs.90.60
+=========================

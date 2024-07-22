@@ -1,0 +1,13 @@
+	Welcome to Mini Mall
+ Bill Number:1771
+ Customer Name:maithili
+ Phone Number:578999
+ Customer Email:maithu@gmail.com
+=========================
+Products	QTY	Price
+=========================
+=========================
+ Sub Amount:		Rs.1520.00
+ Tax Amount:		Rs.15.00
+ Total Amount:		Rs.1535.00
+=========================

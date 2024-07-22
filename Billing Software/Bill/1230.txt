@@ -1,0 +1,13 @@
+	Welcome to Mini Mall
+ Bill Number:1230
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================
+Products	QTY	Price
+=========================
+=========================
+ Sub Amount:		Rs.20000.00
+ Tax Amount:		Rs.150.00
+ Total Amount:		Rs.20150.00
+=========================

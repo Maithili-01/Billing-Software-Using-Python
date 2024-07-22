@@ -1,0 +1,13 @@
+	Welcome to Mini Mall
+ Bill Number:3735
+ Customer Name:gh
+ Phone Number:8765
+ Customer Email:mmm
+=========================
+Products	QTY	Price
+=========================
+=========================
+ Sub Amount:		Rs.8400.00
+ Tax Amount:		Rs.63.00
+ Total Amount:		Rs.8463.00
+=========================

@@ -1,0 +1,8 @@
+	Welcome to Mini Mall
+ Bill Number:9016
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================
+Products	QTY	Price
+=========================

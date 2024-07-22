@@ -1,0 +1,13 @@
+	Welcome to Mini Mall
+ Bill Number:8286
+ Customer Name:hhh
+ Phone Number:357900
+ Customer Email:nnn@
+=========================
+Products	QTY	Price
+=========================
+=========================
+ Sub Amount:		Rs.15000.00
+ Tax Amount:		Rs.100.00
+ Total Amount:		Rs.15100.00
+=========================
